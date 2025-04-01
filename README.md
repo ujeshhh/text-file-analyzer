@@ -24,7 +24,7 @@ This project leverages the power of **Google Gemini AI** and **spaCy** to provid
 #### **Run the Project:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-text-file-analyzer.git
+   git clone https://github.com/ujeshhh/text-file-analyzer.git
    ```
 2. Install the required dependencies:
    ```bash
